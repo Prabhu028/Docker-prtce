@@ -1,5 +1,5 @@
 FROM amazoncorretto:17-alpine3.17-jdk
-LABEL author="khaja" 
+LABEL author="prabhu" 
 LABEL project="learning"
 EXPOSE 8080
 # creates a new group and user
